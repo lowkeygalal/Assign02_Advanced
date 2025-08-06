@@ -548,7 +548,7 @@ namespace Assign02_Advanced
 
             foreach (int i in queue)
             {
-                Console.WriteLine($"{i} ");
+                Console.Write($"{i} ");
             }
 
         }
